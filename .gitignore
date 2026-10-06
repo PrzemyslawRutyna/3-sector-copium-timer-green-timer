@@ -1,0 +1,10 @@
+# Images and runtime data (sector times, Green Timer state)
+*.png
+*.json
+
+# Leftovers the app can create
+*.json.tmp
+*.json.invalid
+*.json.corrupt
+copium_timer.log
+__pycache__/
